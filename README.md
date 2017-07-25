@@ -1,10 +1,10 @@
 [![Version](https://img.shields.io/badge/MORPHEUS-2.0-brightgreen.svg?maxAge=259200)]()
-[![Stage](https://img.shields.io/badge/Release-STABLE-brightgreen.svg)]()
-[![Build](https://img.shields.io/badge/Supported_OS-linux-orange.svg)]()
+[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
 
 # Morpheus - automated ettercap TCP/IP Hijacking tool
-![morpheus v2.0-Alpha](https://dl.dropboxusercontent.com/u/21426454/morpheus-banner.png)
+![morpheus v2.0-Alpha](http://1.1m.yt/VbdDn-n.png)
 
     Version release: v2.0-STABLE
     Author: pedro ubuntu  [ r00t-3xp10it ]
@@ -47,9 +47,9 @@
 
 
 > In this example we are using "<head> HTML tag" to inject an rediretion url into target request
-![morpheus v1.6-Alpha](https://dl.dropboxusercontent.com/u/21426454/morpheus-refresh.png)
+![morpheus v1.6-Alpha](http://i.cubeupload.com/jn83zh.png)
 > In this example we are using 'CSS3' to trigger webpage 180º rotation
-![morpheus v1.6-Alpha](https://dl.dropboxusercontent.com/u/21426454/morpheus-css.png)
+![morpheus v1.6-Alpha](http://i.cubeupload.com/XSWm0P.png)
 
 <br />
 
@@ -61,7 +61,7 @@
 
 > 4º - morpheus needs ettercap to be executed with higth privileges (uid 0 | gid 0). <br />
 > correct ettercap configuration display (running as Admin without ssl disectors active)
-![morpheus v1.6-Alpha](https://dl.dropboxusercontent.com/u/21426454/morpheus-sslBug3.png)
+![morpheus v1.6-Alpha](http://4.1m.yt/78iRuER.png)
 
     By default morpheus (at startup) will replace the original etter.conf/etter.dns files
     provided by ettercap. On exit morpheus will revert those files to is original state.. 
@@ -93,21 +93,15 @@
                Destination ip      flow    source port     rank suspicious
 
 
-![morpheus v2.0-Alpha](https://dl.dropboxusercontent.com/u/21426454/morpheus-uau4.png)
+![morpheus v2.0-Alpha](http://4.1m.yt/Huj4w6p.png)
 
-![morpheus v2.0-Alpha](https://dl.dropboxusercontent.com/u/21426454/morpheus-option9.png)
+![morpheus v2.0-Alpha](http://3.1m.yt/wiWmbQ.png)
 
-![morpheus v2.0-Alpha](https://dl.dropboxusercontent.com/u/21426454/morpheus-creds5.png)
+![morpheus v2.0-Alpha](http://i.cubeupload.com/Hx0JV4.png)
 
-![morpheus v2.0-Alpha](https://dl.dropboxusercontent.com/u/21426454/morpheus-creds2.png)
+![morpheus v2.0-Alpha](http://i.cubeupload.com/LzqZGc.png)
 
-![morpheus v2.0-Alpha](https://dl.dropboxusercontent.com/u/21426454/morpheus-creds1.png)
-
-![morpheus v2.0-Alpha](https://dl.dropboxusercontent.com/u/21426454/sidejacking.png)
-
-![morpheus v2.0-Alpha](https://dl.dropboxusercontent.com/u/21426454/gtf.png)
-
-![morpheus v2.0-Alpha](https://dl.dropboxusercontent.com/u/21426454/morpheus-ircbot.png)
+![morpheus v2.0-Alpha](http://i.cubeupload.com/z8M94O.png)
 
 > Basically firewall filter will act like one offensive and defensive tool analyzing the
 <br />
